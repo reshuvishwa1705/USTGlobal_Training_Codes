@@ -1,0 +1,4 @@
+8,mini,100000,F
+14,cheenu,15000,F
+15,chiku,75000,M
+16,ranuka,55000,F
